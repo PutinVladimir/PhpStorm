@@ -1,6 +1,5 @@
 #!/bin/sh
 
-ARCH=x86_64
 PATH=./:$PATH
 
 if [ -z $1 ]; then
@@ -40,4 +39,4 @@ ln -s bin/phpstorm.png phpstorm.png
 cd ..
 
 echo "Building appimg..."
-appimagetool-x86_64.AppImage -n $dir && rm -rf $dir $1
+ARCH=$(arch) appimagetool-x86_64.AppImage -n $dir && rm -rf $dir $1

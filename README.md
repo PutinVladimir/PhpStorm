@@ -8,8 +8,8 @@ Don't like your new financial model.
 
 So:
 
-Don't use this, worse only Electron.
+Don't use this while they produce javashit, worse only Electron.
 
-If wanna use convert it to AppImage.
+If you are forced to use it at least should convert it to AppImage.
 
-Don't pay while they want money for every new release.
+Don't pay while they don't change financial model.
